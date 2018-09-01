@@ -5,6 +5,7 @@
 #pragma once
 
 #include <cmath>
+#include <cstring>
 #include <stdexcept>
 #include <type_traits>
 #include <utility>
